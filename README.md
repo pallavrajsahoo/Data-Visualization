@@ -14,3 +14,8 @@ The intricate details, colors management, and all the things that goes into make
 
 # Portfolio
 All my data visualization will be shown here. Stay tuned to be amazed!
+
+# Assignment 2: 
+## Part 1: Working with web-based visualization tools and data
+
+https://pallavrajsahoo.github.io/Data-Visualization/dataviz2.html
