@@ -18,4 +18,4 @@ All my data visualization will be shown here. Stay tuned to be amazed!
 # Assignment: Visualizing government debt  
 ## Part 1: Working with web-based visualization tools and data
 
-[Part 1 Viz](https://pallavrajsahoo.github.io/Data-Visualization/dataviz2.html)
+<iframe src="https://data.oecd.org/chart/6vu4" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</iframe> 
