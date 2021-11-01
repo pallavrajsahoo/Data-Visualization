@@ -18,4 +18,4 @@ All my data visualization will be shown here. Stay tuned to be amazed!
 # Assignment: Visualizing government debt  
 ## Part 1: Working with web-based visualization tools and data
 
-https://pallavrajsahoo.github.io/Data-Visualization/dataviz2.html
+[Part 1 Viz](https://pallavrajsahoo.github.io/Data-Visualization/dataviz2.html)
