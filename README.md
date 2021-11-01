@@ -19,3 +19,9 @@ All my data visualization will be shown here. Stay tuned to be amazed!
 ## Part 1: Working with web-based visualization tools and data
 
 <iframe src="https://data.oecd.org/chart/6vu4" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</iframe> 
+
+## Part 2: Working with Flourish
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7692486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7692486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
