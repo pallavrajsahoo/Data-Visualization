@@ -13,6 +13,6 @@ This line charts is a way good representation for Debt to GDP Ratio. One can vie
 
 ## Third Data Visualization
 
-In this visualization, I used the Area Chart (Stacked) variant to show my idea of Debt to GDP ratio. It shows the depth which corelates to the Debt to GDP ratio. I have chosen blue as it is cooler and would not distract the audience. I have also added a title and a subtitle to show the audience what they looking for. Sure, I have heading for this entire page on the top but after scolling down and looking at all these visualizations, one can forget the context. Also, all the text and charts are left-alligned.
+In this visualization, I used the Area Chart (Stacked) variant to show my idea of Debt to GDP ratio. I have chosen blue as it is cooler and would not distract the audience. I have also added a title and a subtitle to show the audience what they looking for. Sure, I have heading for this entire page on the top but after scolling down and looking at all these visualizations, one can forget the context. Also, all the text and charts are left-alligned. The reason I chose this type of chart because the depth of the stacked area shows the corelation to the Debt to GDP ratio. In the above line charts, there were a lot of empty spaces with a line establishing the Ratio which is good but here, with the depth, I think the third visualization is revamped version of the line charts.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7692813"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
